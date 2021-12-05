@@ -1,0 +1,13 @@
+img{
+    height: 30px; width: 30px;
+}
+h1{
+    display: inline-block;
+    color: green;
+}
+h2{
+    color: red;
+}
+p {
+    color: blue;
+}

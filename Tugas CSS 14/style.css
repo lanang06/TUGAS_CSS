@@ -1,0 +1,213 @@
+.container{
+    display: flex;
+}
+.container .box1{
+    background-color: #FF0000;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+
+    
+}
+.container .box2{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container .box3{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container .box4{
+    background-color: rgb(92, 4, 255);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container .box5{
+    background-color: rgb(224, 31, 144);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container .box6{
+    background-color: rgb(144, 255, 16);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container .box7{
+    background-color: rgb(6, 0, 29);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container .box8{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container .box9{
+    background-color: floralwhite;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container .box10{
+    background-color: cadetblue ;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+
+
+.container2{
+    display: flexbox;
+}
+.container2 .box1{
+    background-color: #FF0000;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+
+    
+}
+.container2 .box2{
+    background-color: yellow;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container2 .box3{
+    background-color: cyan;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container2 .box4{
+    background-color: rgb(92, 4, 255);
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container2 .box5{
+    background-color: rgb(224, 31, 144);
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container2 .box6{
+    background-color: rgb(144, 255, 16);
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container2 .box7{
+    background-color: rgb(6, 0, 29);
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container2 .box8{
+    background-color: orange;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    
+}
+
+
+
+.container3{
+    display: flex;
+}
+.container3 .box1{
+    background-color: #FF0000;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+
+    
+}
+.container3 .box2{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container3 .box3{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container3 .box4{
+    background-color: rgb(92, 4, 255);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container3 .box5{
+    background-color: rgb(224, 31, 144);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container3 .box6{
+    background-color: rgb(144, 255, 16);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container3 .box7{
+    background-color: rgb(6, 0, 29);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container3 .box8{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container3 .box9{
+    background-color: floralwhite;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.container3 .box10{
+    background-color: cadetblue ;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}

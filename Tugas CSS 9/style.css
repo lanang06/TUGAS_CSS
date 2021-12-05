@@ -1,0 +1,15 @@
+img{
+    position: absolute;
+    z-index: 1;
+}
+.container{
+    position: absolute;
+    z-index: 2;
+    background-color: white;
+    width: 800px;
+    height: 700px;
+    float: right;
+    margin-left: 700px;
+    text-align: center;
+    margin-top: 20px;
+}

@@ -1,0 +1,32 @@
+a{text-decoration: none; font-size: 20px;font-family: sans-serif;padding: 14px 10px}
+ul{padding: 14px}
+li{list-style: none; display: inline;}
+li a{background: black; color:#d4d4d4;}
+li a:hover{background: #4da4ff; color:#fff;}
+.navi{background: black; height: 50px}
+
+header{
+    background-color: black;
+}
+.colom{
+    column-count: 4;
+    column-width: 10px;
+    column-fill: balance;
+    column-rule: 3px solid black;
+}
+.span {
+    column-span: all;
+}
+main{
+    text-align: justify;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 50px;
+}
+.footer  {
+    padding-top: 1px;
+}

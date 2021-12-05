@@ -1,0 +1,21 @@
+.p-1{
+    background-color: orange;
+    border-style: solid none solid none;
+    border-width: 1px;
+}
+
+.p-2{
+    background-color: blue;
+    color: white;
+}
+
+.p-3{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: groove;
+}
+.p-4{
+    background-color: darkgrey;
+    font-weight: bold;
+    border-style: solid none none none;
+}

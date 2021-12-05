@@ -1,0 +1,17 @@
+#regis{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Courier New', Courier, monospace;
+}
+#logo{
+    margin-left: 40%;
+    margin-top: 4%;
+}
+
+body{
+    background-color: rgba(194, 193, 193, 0.897);
+}

@@ -1,0 +1,27 @@
+body{
+    background-image: url("bg.jpg");
+}
+
+.repeat1{
+    width: 800px;
+    height: 350px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    background-image: url("avocado.jpg");
+    background-repeat: repeat;
+    margin-left: 400px;
+
+}
+
+.repeat2{
+    width: 500px;
+    height: 150px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: blue;
+    background-image: url("avocado.jpg");
+    background-repeat: repeat;
+    margin-left: 400px;
+
+}

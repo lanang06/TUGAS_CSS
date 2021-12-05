@@ -1,0 +1,74 @@
+.container{
+    display: flex;
+}
+
+
+.box1{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+}
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: rebeccapurple;
+}
+
+.box3{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+
+.box4{
+    width: 200px;
+    height: 100px;
+    background-color: teal;
+}
+
+.box5{
+    width: 200px;
+    height: 100px;
+    background-color: tomato;
+}
+
+.box6{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.box7{
+    width: 200px;
+    height: 100px;
+    background-color: indigo;
+}
+
+.box8{
+    width: 200px;
+    height: 100px;
+    background-color: orangered;
+}
+
+.box9{
+    width: 200px;
+    height: 100px;
+    background-color: palevioletred;
+}
+
+.box10{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.box1{order: 9;}
+.box2{order: 1;}
+.box3{order: 2;}
+.box4{order: 3;}
+.box5{order: 4;}
+.box6{order: 5;}
+.box7{order: 0;}
+.box8{order: 6;}
+.box9{order: 7;}
+.box10{order: 8;}
